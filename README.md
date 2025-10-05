@@ -31,6 +31,8 @@ pip install numpy opencv-python onnxruntime
 **script** - содержит готовый ноутбук с полным кодом решения задачи и файл Converte.ipynb для конвертирования модели в формат `.onnx`.
 **work_dir** - видео полной, видео обрезанное до 12 секунд и видео полученное в результате работы модели с наложением bboxes, score, distance.
 
+**Scheme.md** - схема алгоиртма.
+
 ### 3. Запуск скрипта
 
 В Jupyter notebook / Collab / Kaggle запустите main.ipynb.
